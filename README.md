@@ -22,7 +22,6 @@
   <img align="center" alt="img..." src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </div>
 
-<br />
 ### Tecnologias mais comitadas 😅
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurFCouto&layout=compact)](https://github.com/ArthurFCouto/github-readme-stats)
