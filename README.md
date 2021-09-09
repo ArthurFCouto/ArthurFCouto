@@ -10,7 +10,7 @@
 
 ![ArthurFCouto GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurfcouto&show_icons=true&theme=gruvbox)
 
-### Tecnologias preferidas
+### Tecnologias preferidas 🧐
 
 <div style="display: inline_block">
   <img align="center" alt="img..." src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -22,6 +22,10 @@
   <img align="center" alt="img..." src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </div>
 
+<br />
+### Tecnologias mais comitadas 😅
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurFCouto&layout=compact)](https://github.com/ArthurFCouto/github-readme-stats)
 
 <!--
 **ArthurFCouto/ArthurFCouto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
